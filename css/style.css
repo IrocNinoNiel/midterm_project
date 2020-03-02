@@ -5,3 +5,15 @@
 .container{
     margin-bottom: 500px;
 }
+
+.text-center1{
+    text-align: center;
+    padding: 1.76em 0em;
+}
+
+.bg-home{
+    background-image: url(../img/home-bg.jpg);
+}
+.container-j{
+    padding-top: 10em;
+}
