@@ -3,17 +3,17 @@
 }
 
 .container{
-    margin-bottom: 500px;
+    margin-bottom: 100px;
 }
 
 .text-center1{
     text-align: center;
-    padding: 1.76em 0em;
 }
 
-.bg-home{
+.bg-nav{
     background-image: url(../img/home-bg.jpg);
 }
+
 .container-j{
     padding-top: 10em;
 }
@@ -23,3 +23,18 @@
     height: 10%;
    
 }
+
+.jumbotron1{
+    background-color: gainsboro;
+    margin-bottom: 5%;
+}
+
+.font1{
+    font-size: 100px;   
+}
+
+.font-s1{
+    font-size: 30px;
+}
+
+@media (min-width:576px){.jumbotron1{padding:4rem 2rem}}
