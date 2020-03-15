@@ -1,10 +1,4 @@
-.container-space{
-    margin-top: 100px;
-}
-.color1{
-    color: gainsboro;
-}
-.container-exp{
+.container-about{
     width: 80%;
     margin: auto;
     height: 10%;
@@ -28,9 +22,5 @@
     .block{
         width: 100%;
         float: none;
-    }
-    .container-python{
-        display:flex;
-        flex-direction: column-reverse;
     }
 }
